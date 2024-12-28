@@ -3,4 +3,4 @@
 
 # Start the music player
 
-python3 -m GDNmusic
+python3 -m GDNMUSIC
