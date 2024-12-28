@@ -106,7 +106,7 @@ class Player:
                 return
             btns = Buttons.player_markup(chat_id, video_id, hellbot.app.username)
             if photo:
-                sent = await hellbot.app.send_photo(
+                sent = await GDNbot.app.send_photo(
                     chat_id,
                     photo,
                     TEXTS.PLAYING.format(
