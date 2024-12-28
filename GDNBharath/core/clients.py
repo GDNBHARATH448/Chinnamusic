@@ -1,7 +1,7 @@
 from pyrogram import Client
 
 from config import Config
-from GDNBHARATH.utils.exceptions import HellBotException
+from GDNBHARATH.utils.exceptions import GDNBotException
 
 from .logger import LOGS
 
