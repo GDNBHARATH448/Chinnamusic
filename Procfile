@@ -1,1 +1,1 @@
-worker: bash StartGDNMusic
+worker: bash StartGDNmusic
