@@ -1,7 +1,7 @@
 from pyrogram import Client
 
 from config import Config
-from Music.utils.exceptions import HellBotException
+from GDNBHARATH.utils.exceptions import HellBotException
 
 from .logger import LOGS
 
