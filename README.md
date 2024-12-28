@@ -1,7 +1,8 @@
 # Chinnamusic     
 
 <h1 
- </p> align ="center"><img src="https://graph.org/file/37f632a3c066c707cec2f-c2d4a6b191f85d9aad.jpg"
+ <p align="center">
+  <img src="https://graph.org/file/657982067208bfb42ab98-6373069b6a0dfd7ef2.jpg">
 </p>
  
 </h2>
