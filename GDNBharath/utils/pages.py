@@ -18,7 +18,7 @@ class Pages:
             btns = Buttons.song_markup(rand_key, all_tracks[key]["link"], key)
             cap = f"__({key+1}/{len(all_tracks)})__ **Song Downloader:**\n\n"
             cap += f"**• Title:** `{all_tracks[key]['title']}`\n\n"
-            cap += f"🎶 {hellbot.app.mention}"
+            cap += f"🎶 {GDNbot.app.mention}"
             await m.edit_media(
                 InputMediaPhoto(
                     all_tracks[key]["thumbnail"],
